@@ -16,3 +16,6 @@ This repository contains my portfolio project to showcase my skills in data scie
   - Use the trained model to predict car prices for new data.
   - Create a user-friendly interface for interacting with the model.
   - Documentation and presentation:
+
+![](images/heatmap.png)
+![](images/histogram.png)
