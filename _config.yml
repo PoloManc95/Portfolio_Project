@@ -1,1 +1,40 @@
-theme: jekyll-theme-minimal
+# Site settings
+title: My Data Science Portfolio
+description: Showcase of my data science projects and skills.
+theme: jekyll-theme-cayman
+
+# Navigation
+nav:
+  - title: Home
+    url: /
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude files and folders from the build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.txt
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# SEO settings
+seo:
+  type: website
+  title: My Data Science Portfolio
+  description: Showcase of my data science projects and skills.
+  baseurl: ""  # Add your base URL if hosting in a subdirectory
+  image: /assets/images/portfolio-thumbnail.png  # Path to a thumbnail image for social media sharing
+  twitter:
+    username: your_twitter_handle
+
+# Custom settings
+custom_setting: value
