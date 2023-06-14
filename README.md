@@ -1,7 +1,7 @@
-# Portfolio_Project
-This repository contains my portfolio project to showcase my skills in data science
+# Danial's Data Science Portfolio
+This repository contains my portfolio project to showcase application of data science concepts in the real world
 
-# Project 1: Car Price Prediction Model
+Project 1: Car Price Prediction Model
 1) Data preprocessing:
   - Load and clean the car price dataset
   - Handle missing values and remove irrelevant features
