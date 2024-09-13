@@ -1,4 +1,4 @@
-# Danial's Data Science Portfolio
+# First Data Science Portfolio
 This repository contains my portfolio project to showcase application of data science concepts in the real world
 
 Project 1: Car Price Prediction Model
