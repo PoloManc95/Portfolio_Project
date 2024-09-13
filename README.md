@@ -1,4 +1,4 @@
-# First Data Science Portfolio
+# Car Price Prediction Model (Data Science Portfolio)
 This repository contains my portfolio project to showcase application of data science concepts in the real world
 
 Project 1: Car Price Prediction Model
